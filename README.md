@@ -47,6 +47,8 @@
   <img width="60%" alt="giphy" src="https://github.com/user-attachments/assets/47b35c7d-bc2f-40ca-9ef3-6fd6fc917345" />
 </p>
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/gabriel-neto7/gabriel-neto7/snake-output/snake.svg" alt="Snake animation" />
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
