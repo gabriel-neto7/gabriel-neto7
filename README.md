@@ -10,7 +10,7 @@
 
   - 🌱 Currently building a strong foundation in programming logic and software development fundamentals.
 
-  - 🔭 I am looking for my first job opportunity. - My goal is to be able to approach any problem and create the solution it demands, regardless of the technology or approach.
+  - 🔭 I am looking for my first job opportunity. My goal is to be able to approach any problem and create the solution it demands, regardless of the technology or approach.
 </p>
 
 <!-- Dropdown -->
