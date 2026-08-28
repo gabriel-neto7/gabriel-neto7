@@ -29,7 +29,9 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gabrielneto7)
 
 <!-- GithubStats -->
-![gabriel-neto7 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-neto7&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabriel-neto7&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=gabriel-neto7&layout=compact&langs_count=6&theme=tokyonight)
+<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gabriel-neto7&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=gabriel-neto7&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 <!-- Portfolio 
 ## Portfolio:
@@ -42,7 +44,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/47b35c7d-bc2f-40ca-9ef3-6fd6fc917345" />
+  <img width="60%" alt="giphy" src="https://github.com/user-attachments/assets/47b35c7d-bc2f-40ca-9ef3-6fd6fc917345" />
 </p>
 
 ## 🔥 Skills
