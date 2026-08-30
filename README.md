@@ -25,8 +25,8 @@
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gabriel.neto7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.neto7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielneto7)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gabrielneto7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielneto7)
 
 <!-- GithubStats -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabriel-neto7&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=gabriel-neto7&layout=compact&langs_count=6&theme=tokyonight)
